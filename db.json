@@ -1,0 +1,92 @@
+{
+  "tours": [
+    {
+      "destination": "Иссык-Куль",
+      "description": "Озеро",
+      "img": "https://triptokyrgyzstan.com/sites/default/files/media/image/c_sergey_kalachov_9.jpg",
+      "category": "lakes",
+      "id": 5,
+      "price": "3000"
+    },
+    {
+      "destination": "Cары Челек",
+      "description": "Озеро",
+      "img": "https://concept.kg/media/cache/3b/1c/3b1c199419217bbce8f50f065db361b1.jpg",
+      "category": "lakes",
+      "id": 6,
+      "price": "5000"
+    },
+    {
+      "img": "https://www.open.kg/uploads/posts/2014-05/1399660094_136217_full.jpg",
+      "destination": "Ала Арча",
+      "description": "Горы",
+      "id": 7,
+      "price": "800",
+      "category": "mountain"
+    },
+    {
+      "destination": "Жети Огуз",
+      "description": "Горы",
+      "img": "https://ab-transfer.kg/wp-content/uploads/2019/01/fon.jpg",
+      "category": "mountain",
+      "price": "1000",
+      "id": 10
+    },
+    {
+      "destination": "Кол-Тор",
+      "img": "https://bars.media/wp-content/uploads/2020/02/84088497_2845195612207998_8334051440112926175_n-1024x1024.jpg",
+      "description": "Озеро",
+      "category": "lakes",
+      "price": "800",
+      "id": 12
+    },
+    {
+      "destination": "Ала Арча",
+      "description": "Горы",
+      "img": "https://www.open.kg/uploads/posts/2014-05/1399660094_136217_full.jpg",
+      "category": "mountain",
+      "price": "800",
+      "id": 13
+    },
+    {
+      "destination": "Ала Арча",
+      "description": "Горы",
+      "img": "https://www.open.kg/uploads/posts/2014-05/1399660094_136217_full.jpg",
+      "category": "mountain",
+      "price": "800",
+      "id": 14
+    },
+    {
+      "destination": "Cары Челек",
+      "description": "Озеро",
+      "img": "https://ab-transfer.kg/wp-content/uploads/2019/01/fon.jpg",
+      "category": "lakes",
+      "price": "5000",
+      "id": 15
+    },
+    {
+      "destination": "Кегеты",
+      "description": "Горы",
+      "img": "https://cs10.pikabu.ru/post_img/2018/12/02/7/1543746619124293121.jpg",
+      "category": "waterfall",
+      "price": "1200",
+      "id": 16
+    },
+    {
+      "description": "Озеро",
+      "destination": "Сон Кол",
+      "img": "https://www.centralasia-travel.com/uploads/gallery/1172/sonkul-lake-20.jpg",
+      "category": "lakes",
+      "price": "3500",
+      "id": 17
+    },
+    {
+      "destination": "Водопад Барскоон",
+      "description": "водопад",
+      "img": "https://static.ngs.ru/cache/turizm/images/3e2792c27724c3217393b4d0dde75121_1024_768.jpg",
+      "category": "waterfall",
+      "price": "1000",
+      "id": 18
+    }
+  ]
+}
